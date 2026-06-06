@@ -10,6 +10,14 @@ I am currently walking the path of **Abu-Hadhoud Roadmap** 📖.
 
 **This profile reflects my learning journey and progress.**
 
+<a href="https://www.linkedin.com/in/ziyadd/">
+  <img align="center" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
+</a>
+⠀⠀
+<a href="ziyad.y.albokahri@gmail.com">
+  <img align="center" width="26px" src="https://cdn.simpleicons.org/gmail" />
+</a>
+
 </div>
 
 ---
