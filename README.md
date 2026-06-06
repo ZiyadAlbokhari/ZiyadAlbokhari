@@ -10,14 +10,6 @@ I am currently walking the path of **Abu-Hadhoud Roadmap** 📖.
 
 **This profile reflects my learning journey and progress.**
 
-<a href="https://www.linkedin.com/in/ziyadd/">
-  <img align="center" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
-</a>
-⠀⠀
-<a href="ziyad.y.albokahri@gmail.com">
-  <img align="center" width="26px" src="https://cdn.simpleicons.org/gmail" />
-</a>
-
 </div>
 
 ---
@@ -42,6 +34,18 @@ I am currently walking the path of **Abu-Hadhoud Roadmap** 📖.
 > - 🔗 [**Course 4**](https://github.com/ZiyadAlbokhari/Programming-Advices-Courses/tree/main/Course%204)
 > - 🔗 [**Course 5**](https://github.com/ZiyadAlbokhari/Programming-Advices-Courses/tree/main/Course%205)
 > - 🔗 [**Course 7**](https://github.com/ZiyadAlbokhari/Programming-Advices-Courses/tree/main/Course%207)
+
+⠀
+
+> ### 📬 Contact
+> 
+> <a href="https://www.linkedin.com/in/ziyadd/">
+>  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
+> </a>
+>
+> <a href="ziyad.y.albokahri@gmail.com">
+>  <img align="center" width="26px" src="https://cdn.simpleicons.org/gmail" />
+> </a>
 
 <div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="100" />
