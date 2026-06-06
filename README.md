@@ -18,12 +18,6 @@ I am currently walking the path of **Abu-Hadhoud Roadmap** 📖.
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C%2B%2B%20;Algorithms%20%26%20Problem%20Solving;Functional%20Programming%20;Visual%20Studio%20"/>
 </p>
 
-> **Computer Science student with a deep passion for software development and problem-solving. Currently building a strong foundation in programming and continuously developing my technical skills on the path to becoming a Full Stack Developer.**
-> 
-> This profile reflects my learning journey and progress.
-
-⠀
-
 > ### 🏦 My Projects
 > **These projects represent my journey from learning fundamentals to building real applications.**
 > 
