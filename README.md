@@ -37,6 +37,13 @@ I am currently walking the path of **Abu-Hadhoud Roadmap** 📖.
 
 ⠀
 
+> ### 📦 My Custom Libraries (Masterpiece)
+> **I have built my own Header-only C++ Libraries from scratch to practice Clean Architecture and Divide & Conquer strategy. These libraries are used in all my projects to handle Inputs, Dates, Strings, and more.**
+> 
+> - 🔗 [**My C++ Library**](https://github.com/ZiyadAlbokhari/My-CPP-Library)
+
+⠀
+
 > ### 📬 Contact
 > 
 > <a href="https://www.linkedin.com/in/ziyadd/">
