@@ -42,18 +42,6 @@ I am currently walking the path of **Abu-Hadhoud Roadmap** 📖.
 > 
 > - 🔗 [**My C++ Library**](https://github.com/ZiyadAlbokhari/My-CPP-Library)
 
-⠀
-
-> ### 📬 Contact
-> 
-> <a href="https://www.linkedin.com/in/ziyadd/">
->  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
-> </a>
->
-> <a href="mailto:ziyad.y.albokhari@gmail.com">
->  <img align="center" width="26px" src="https://cdn.simpleicons.org/gmail" />
-> </a>
-
 <div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="100" />
 </div>
