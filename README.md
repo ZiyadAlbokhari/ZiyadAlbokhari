@@ -22,8 +22,8 @@ I am currently walking the path of **Abu-Hadhoud Roadmap** 📖.
 > **These projects represent my journey from learning fundamentals to building real applications.**
 > 
 > ### ⚙️ C++ Projects (Foundations)
-> - 🔗 [**Stone Paper Scissors**](https://github.com/ZiyadAlbokhari/Project-1-Stone-Paper-Scissor)
-> - 🔗 [**Math Game**](https://github.com/ZiyadAlbokhari/Project-2-Math-Game)
+> - 🔗 [**Stone-Paper-Scissors Game**](https://github.com/ZiyadAlbokhari/Project-1-Stone-Paper-Scissor-Game)
+> - 🔗 [**Math Quiz Game**](https://github.com/ZiyadAlbokhari/Project-2-Math-Quiz-Game)
 
 ⠀
 
