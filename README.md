@@ -22,9 +22,9 @@ Currently walking the path of **Dr. Mohammed Abu-Hadhoud Roadmap** 📖.
 > **These projects represent my journey from learning fundamentals to building real applications.**
 > 
 > ### ⚙️ C++ Projects (Foundations)
-> - 🔗 [**Stone-Paper-Scissors Game**](https://github.com/ZiyadAlbokhari/Stone-Paper-Scissor-Game)
-> - 🔗 [**Math Quiz Game**](https://github.com/ZiyadAlbokhari/Math-Quiz-Game)
-> - 🔗 [**Bank System**](https://github.com/ZiyadAlbokhari/Bank-System)
+> - ✂️ [**Stone-Paper-Scissors Game**](https://github.com/ZiyadAlbokhari/Stone-Paper-Scissor-Game)
+> - 🔢 [**Math Quiz Game**](https://github.com/ZiyadAlbokhari/Math-Quiz-Game)
+> - 🏦 [**Bank System**](https://github.com/ZiyadAlbokhari/Bank-System)
 
 ⠀
 
