@@ -34,7 +34,9 @@ Currently walking the path of **Dr. Mohammed Abu-Hadhoud Roadmap** 📖.
 - 🏦 [**Bank System**](https://github.com/ZiyadAlbokhari/Bank-System)
   - A comprehensive banking system that handles client data management and financial transactions with permanent storage.
 
----
+</div>
+
+<hr>
 
 ## 🧠 Algorithms & Problem Solving
 
