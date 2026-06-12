@@ -18,7 +18,7 @@ Currently walking the path of **Dr. Mohammed Abu-Hadhoud Roadmap** 📖.
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C%2B%2B%20;Algorithms%20%26%20Problem%20Solving;Functional%20Programming%20;Visual%20Studio%20"/>
 </p>
 
-<hr>
+---
 
 ## 🛠️ My Projects
 
@@ -34,7 +34,7 @@ Currently walking the path of **Dr. Mohammed Abu-Hadhoud Roadmap** 📖.
 - 🏦 [**Bank System**](https://github.com/ZiyadAlbokhari/Bank-System)
   - A comprehensive banking system that handles client data management and financial transactions with permanent storage.
 
-<hr>
+---
 
 ## 🧠 Algorithms & Problem Solving
 
