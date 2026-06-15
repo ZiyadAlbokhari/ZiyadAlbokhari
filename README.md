@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 👋 Hello! I'm **Ziyad** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### 👋 Hello! I'm **Ziyad** <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="30">
 
 Computer Science student with a deep passion for software development and problem-solving. Currently building a strong foundation in programming and continuously developing my technical skills on the path to becoming a Full Stack Developer 👨🏻‍💻.  
 
@@ -54,7 +54,3 @@ Currently walking the path of **Dr. Mohammed Abu-Hadhoud Roadmap** 📖.
 
 - 🔗 [**My C++ Library**](https://github.com/ZiyadAlbokhari/My-CPP-Library)
 -->
-
-<div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="100" />
-</div>
