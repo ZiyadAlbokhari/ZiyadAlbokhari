@@ -6,6 +6,8 @@
 
 Computer Science student with a deep passion for software development and problem-solving. Currently building a strong foundation in programming and continuously developing my technical skills on the path to becoming a Full Stack Developer 👨🏻‍💻.  
 
+I am also interested in management and actively working on developing my skills in this area alongside my technical growth 📈.
+
 Currently walking the path of **Dr. Mohammed Abu-Hadhoud Roadmap** 📖.  
 
 **This profile reflects my learning journey and progress.**
